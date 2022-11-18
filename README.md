@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>💻 Some stats 💻</h2>
+
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riguja89&theme=dark&show_icons=true)
