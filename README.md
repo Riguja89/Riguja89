@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/Riguja89/Riguja89/blob/main/svg.svg"/>
 <!--
 **Riguja89/Riguja89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
