@@ -1,7 +1,7 @@
 <img src="https://github.com/Riguja89/Riguja89/blob/main/svg.svg"/>
 
 
-<h1>🤓 Full Stack Developer, From  Colombia!!! to 🌎</h1>
+<h1>🤓 Full Stack Developer, From  Colombia!!! to 🌎</h1> 
 
 
 
