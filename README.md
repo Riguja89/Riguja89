@@ -52,10 +52,33 @@ Deployada en Versel:  <a href="https://barbershop-front-deploy.vercel.app/">Barb
 
 <hr/>
 
+<h2> VideoGame APP </h2>
+
+<p>Esta es una Aplicación web en la cual se puede ver la información relevante de Videojuegos existentes, se pueden ordenar o filtrar según la preferencia de Usuario, además se incluye un componente de búsqueda en el cual se puede consultar la existencia de un videojuego en específico, se incluye una sección para la creación de videojuegos a gusto del Usuario, y estos se guardan en la base de datos.</p> 
+<br>
+
+![barbeshop](https://github.com/Riguja89/Riguja89/blob/main/screenshot-videogamesApp.png)
+
+<h4> Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>React</li>
+    <li>Redux</li>
+  <h5>|--| BackEnd |--|</h5>
+    <li>NodeJs</li>
+    <li>Express</li>
+</ul>
+
+Deployada en Versel:  <a href="https://videogame-clien-api.vercel.app/">VideoGame-App</a>
+
+<hr/>
+
+
+
 
 <h2>💻 Some stats 💻</h2>
 
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riguja89&theme=dark&show_icons=true)
+[![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riguja89&theme=dark&show_icons=true)](https://github.com/Riguja89/github-readme-stats)
 
 ## How to reach me:
 <span >
