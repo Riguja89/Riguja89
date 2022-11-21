@@ -56,3 +56,9 @@ Deployada en Versel:  <a href="https://barbershop-front-deploy.vercel.app/">Barb
 <h2>💻 Some stats 💻</h2>
 
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riguja89&theme=dark&show_icons=true)
+
+## How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/jaime-gutierrez-rios-b3143662/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:jaimegutierrios@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+</span>
